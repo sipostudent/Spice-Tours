@@ -152,7 +152,7 @@ section {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url(https://www.sandals.com/blog/content/images/2019/10/1-aerial-viewSaint-George-Grenada.jpg);
+  background: url(/assets/images/1-aerial-viewSaint-George-Grenada.jpg);
   background-size: cover;
 }
 
@@ -313,7 +313,7 @@ a.btn:hover {
 }
 
 .testimonials {
-  background: url(https://www.planetware.com/photos-large/GRE/grenada-morne-rouge-bay.jpg);
+  background: url(/assets/images/grenada-pic.jpg);
   background-size: cover;
 }
 
